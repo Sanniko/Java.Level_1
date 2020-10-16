@@ -17,7 +17,7 @@ public class Main {
 
         while (num1 == 1) {
 
-            repeatGame(true);
+            repeatGame(false);
             System.out.println("Повторить игру еще раз? 1 – да / 0 – нет");
 
             num1 = -1;
